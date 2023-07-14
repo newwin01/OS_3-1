@@ -1,0 +1,12 @@
+*.exe
+*.out
+
+delta
+gpt
+testgpt.c
+test
+test1
+deltadebugging
+balance/testcases/user
+
+settings.json
