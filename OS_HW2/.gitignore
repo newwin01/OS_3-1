@@ -10,3 +10,4 @@ deltadebugging
 balance/testcases/user
 
 settings.json
+*.o

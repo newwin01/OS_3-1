@@ -128,7 +128,6 @@ char* error_return (char* binary_file, char** binary_options, char* input){
         
         close(to_parent[0]);
         
-        
     }
     // printf("%s", error_buffer);
     return error_buffer;
